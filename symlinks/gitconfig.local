@@ -1,9 +1,4 @@
 [user]
-  name = Ayan Yenbekbay
-  email = ayan.yenb@gmail.com
-  github = yenbekbay
-  signingkey = ayan.yenb@gmail.com
-[commit]
-  gpgsign = true
-[gpg]
-  program = /usr/local/bin/gpg2
+  name = Maxat Zhetpisbayev
+  email = maxat70baev@gmail.com
+  github = maxat70baev
