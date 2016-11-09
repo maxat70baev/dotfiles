@@ -15,4 +15,4 @@ curl -fsSL https://raw.githubusercontent.com/maxat70baev/dotfiles/master/install
 
 ## License
 
-[MIT License](./LICENSE) © Ayan Yenbekbay
+[MIT License](./LICENSE) © Maxat Zhetpisbayev
