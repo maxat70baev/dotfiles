@@ -7,7 +7,7 @@ sudo -v
 while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 
 # Run the main dotfiles installation script
-yes y | sh <(curl -fsSL https://raw.githubusercontent.com/anvilabs/dotfiles/master/install.sh)
+curl -fsSL https://raw.githubusercontent.com/anvilabs/dotfiles/master/install.sh | sh
 
 # Clone local dotfiles from Github
 git clone https://github.com/maxat70baev/dotfiles.git ~/.dotfiles-local
