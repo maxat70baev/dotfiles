@@ -36,7 +36,6 @@ mas install 568494494 # Pocket
 # Install communication apps
 brew cask install messenger
 brew cask install whatsapp
-brew cask install skype
 brew cask install slack
 brew cask install telegram
 mas install 409789998 # Twitter
