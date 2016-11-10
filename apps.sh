@@ -24,6 +24,7 @@ brew cask install itsycal
 brew cask install dropbox
 mas install 692867256 # Simplenote
 mas install 443987910 # 1Password
+mas install 949724400 # MoneyWiz
 mas install 409183694 # Keynote
 mas install 409203825 # Numbers
 mas install 409201541 # Pages
