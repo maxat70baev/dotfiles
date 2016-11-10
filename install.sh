@@ -32,7 +32,7 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
 
 # Open the GitHub settings page
-open "https://github.com/account/keys"
+open "https://github.com/settings/keys"
 
 # Add the SSH key to GitHub
 pbcopy < ~/.ssh/id_rsa.pub
