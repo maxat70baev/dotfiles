@@ -1,11 +1,15 @@
 #!/usr/bin/env bash
 
+# Sign into the Mac App Store
+mas signin maxat70baev@gmail.com
+
 # Install mas
 brew install mas
 
 # Install utility apps
 brew cask install flux
 brew cask install hyperdock
+brew cask install onyx
 mas install 437151949 # Entropy
 mas install 443126292 # TrashMe
 mas install 937984704 # Amphetamine
