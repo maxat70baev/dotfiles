@@ -51,6 +51,7 @@ mas install 597611879 # Radium
 
 # Install other apps
 brew cask install google-photos-backup
+brew cask install steam
 brew cask install transmission
 
 # Remove outdated versions from the cellar
