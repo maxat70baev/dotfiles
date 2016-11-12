@@ -18,7 +18,7 @@ rcup -v -d ~/.dotfiles-local/symlinks
 # Install apps with brew cask and mas
 source ~/.dotfiles-local/apps.sh
 
-# Install vscode extensions
+# Install vscode extensions and settings
 source ~/.dotfiles-local/vscode.sh
 
 # Remove outdated versions from the cellar
