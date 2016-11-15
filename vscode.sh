@@ -4,7 +4,7 @@ code --install-extension EditorConfig.EditorConfig
 code --install-extension christian-kohler.path-intellisense
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension donjayamanne.githistory
-code --install-extension gerane.Theme-FlatlandMonokai
+code --install-extension ms-vscode.Theme-TomorrowKit
 code --install-extension robertohuertasm.vscode-icons
 
 cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
@@ -14,6 +14,7 @@ cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
     "editor.rulers": [80],
     "editor.tabSize": 2,
     "editor.scrollBeyondLastLine": false,
+    "editor.renderWhitespace": "boundary",
 
     "window.openFilesInNewWindow": false,
     "window.zoomLevel": 0,
