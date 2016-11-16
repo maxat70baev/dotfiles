@@ -56,6 +56,7 @@ mas install 731738567 # Permute
 brew cask install google-photos-backup
 brew cask install steam
 brew cask install transmission
+npm install -g peerflix
 
 # Remove outdated versions from the cellar
 brew cask cleanup
