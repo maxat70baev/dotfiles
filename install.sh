@@ -37,4 +37,4 @@ open "https://github.com/settings/keys"
 # Add the SSH key to GitHub
 pbcopy < ~/.ssh/id_rsa.pub
 echo "SSH key copied to clipboard"
-read -p "Press [Enter] key when you're done..."
+read "?Press [Enter] key when you're done..."
