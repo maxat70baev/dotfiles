@@ -24,8 +24,9 @@ brew cask install sourcetree
 brew cask install visual-studio-code
 
 # Install productivity apps
-brew cask install itsycal
+brew cask install calibre
 brew cask install dropbox
+brew cask install itsycal
 mas install 409183694 # Keynote
 mas install 409201541 # Pages
 mas install 409203825 # Numbers
@@ -58,7 +59,6 @@ mas install 731738567 # Permute
 brew cask install google-photos-backup
 brew cask install steam
 brew cask install transmission
-npm install -g peerflix
 
 # Remove outdated versions from the cellar
 brew cask cleanup
