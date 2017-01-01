@@ -1,7 +1,7 @@
 #!/bin/sh
 
-BASE16_SCHEME="tomorrow-night"
+# BASE16_SCHEME="tomorrow-night"
 
-# Remote plugins
-zplug "chriskempson/base16-shell", use:"scripts/base16-$BASE16_SCHEME.sh", nice:-19
-zplug "chriskempson/base16-shell", use:colortest, as:command
+# # Remote plugins
+# zplug "chriskempson/base16-shell", use:"scripts/base16-$BASE16_SCHEME.sh", defer:2
+# zplug "chriskempson/base16-shell", use:colortest, as:command
