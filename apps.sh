@@ -27,6 +27,7 @@ brew cask install visual-studio-code
 # Install productivity apps
 brew cask install calibre
 brew cask install dropbox
+brew cask install google-drive
 brew cask install itsycal
 mas install 409183694 # Keynote
 mas install 409201541 # Pages
@@ -57,7 +58,6 @@ mas install 597611879 # Radium
 mas install 731738567 # Permute
 
 # Install other apps
-brew cask install google-photos-backup
 brew cask install steam
 brew cask install transmission
 
