@@ -5,3 +5,9 @@ DEFAULT_USER="maxat70baev"
 
 # Synchronize base and local dotfiles
 alias syncdotfiles="RCRC=$HOME/.rcrc.local rcup -v"
+
+# Shortcut for opening VS Code in a given directory
+edit() {
+  z $1
+  code .
+}
