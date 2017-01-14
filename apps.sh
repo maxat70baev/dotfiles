@@ -10,7 +10,6 @@ mas signin maxat70baev@gmail.com
 brew cask install appcleaner
 brew cask install flux
 brew cask install hyperdock
-brew cask install macclean
 brew cask install onyx
 brew cask install qlcolorcode
 brew cask install qlmarkdown
