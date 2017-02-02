@@ -4,8 +4,7 @@
 brew install mas
 
 # Get Apple ID input
-echo "Enter your Apple ID email, followed by [ENTER]:"
-read email
+read "email?Enter your Apple ID email, followed by [ENTER]: "
 
 # Sign into the Mac App Store
 mas signin $email
