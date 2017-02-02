@@ -3,8 +3,12 @@
 # Install mas
 brew install mas
 
+# Get Apple ID input
+echo "Enter your Apple ID email, followed by [ENTER]:"
+read email
+
 # Sign into the Mac App Store
-mas signin maxat70baev@gmail.com
+mas signin $email
 
 # Install utility apps
 brew cask install appcleaner
