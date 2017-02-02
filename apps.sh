@@ -54,6 +54,7 @@ brew cask install whatsapp
 mas install 409789998 # Twitter
 
 # Install media apps
+brew cask install deezer
 brew cask install handbrake
 brew cask install imageoptim
 brew cask install vlc
