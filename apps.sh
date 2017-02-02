@@ -31,6 +31,7 @@ brew cask install visual-studio-code
 # Install productivity apps
 brew cask install calibre
 brew cask install dropbox
+brew cask install google-chrome
 brew cask install google-drive
 brew cask install itsycal
 mas install 409183694 # Keynote
@@ -47,7 +48,6 @@ mas install 568494494 # Pocket
 mas install 880001334 # Reeder
 
 # Install communication apps
-brew cask install messenger
 brew cask install slack
 brew cask install telegram
 brew cask install whatsapp
