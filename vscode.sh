@@ -18,5 +18,7 @@ cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
 
     "window.openFilesInNewWindow": false,
     "window.zoomLevel": 0,
+    "workbench.colorTheme": "Tomorrow Night (Sublime)",
+    "workbench.iconTheme": "vscode-icons",
 }
 EOF
