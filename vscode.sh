@@ -4,7 +4,7 @@ code --install-extension christian-kohler.path-intellisense
 code --install-extension donjayamanne.githistory
 code --install-extension EditorConfig.EditorConfig
 code --install-extension joshpeng.sublime-babel-vscode
-code --install-extension joshpeng.theme-tomorrowkit-sublime
+code --install-extension ms-vscode.theme-tomorrowkit
 code --install-extension robertohuertasm.vscode-icons
 
 cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
@@ -18,7 +18,7 @@ cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
 
     "window.openFilesInNewWindow": false,
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Tomorrow Night (Sublime)",
+    "workbench.colorTheme": "Tomorrow Night",
     "workbench.iconTheme": "vscode-icons",
 }
 EOF
