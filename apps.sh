@@ -23,7 +23,7 @@ mas install 437151949 # Entropy
 mas install 937984704 # Amphetamine
 
 # Install development apps
-brew cask install hyper
+brew cask install iterm2
 brew cask install sourcetree
 brew cask install visual-studio-code
 
