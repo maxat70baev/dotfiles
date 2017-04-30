@@ -18,6 +18,7 @@ brew cask install qlcolorcode
 brew cask install qlmarkdown
 brew cask install qlstephen
 mas install 1000397973 # Wallcat
+mas install 1206020918 # Battery Indicator
 mas install 414209656 # Better Rename
 mas install 437151949 # Entropy
 mas install 937984704 # Amphetamine
