@@ -11,3 +11,11 @@ edit() {
   z $1
   code .
 }
+
+# Stream movies to TV
+stream() {
+  webtorrent $1 --out ~/Downloads --dlna
+}
+stream-file() {
+  dlnacast $1
+}
