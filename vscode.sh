@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension donjayamanne.githistory
 code --install-extension EditorConfig.EditorConfig
