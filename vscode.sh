@@ -17,9 +17,9 @@ cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
     "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "on",
 
-    "window.openFilesInNewWindow": false,
+    "window.openFilesInNewWindow": default,
     "window.zoomLevel": 0,
     "workbench.colorTheme": "Charcoal Oceaninc Next",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "vscode-icons"
 }
 EOF
