@@ -15,6 +15,7 @@ cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
     "editor.tabSize": 2,
     "editor.scrollBeyondLastLine": false,
     "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
 
     "window.openFilesInNewWindow": false,
     "window.zoomLevel": 0,
