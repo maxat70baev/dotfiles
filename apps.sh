@@ -11,6 +11,7 @@ mas signin $email
 
 # Install utility apps
 brew cask install appcleaner
+brew cask install cheatsheet
 brew cask install flux
 brew cask install hyperdock
 brew cask install onyx
