@@ -11,6 +11,7 @@ code --install-extension robertohuertasm.vscode-icons
 cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
 {
     "editor.fontFamily": "Monoid, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
     "editor.fontSize": 11,
     "editor.rulers": [80],
     "editor.tabSize": 2,
@@ -18,7 +19,7 @@ cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
     "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "on",
 
-    "window.openFilesInNewWindow": default,
+    "window.openFilesInNewWindow": "default",
     "window.zoomLevel": 0,
     "workbench.colorTheme": "Charcoal Oceaninc Next",
     "workbench.iconTheme": "vscode-icons"
