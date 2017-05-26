@@ -26,6 +26,7 @@ mas install 937984704 # Amphetamine
 
 # Install development apps
 brew cask install iterm2
+brew cask install postman
 brew cask install sourcetree
 brew cask install visual-studio-code
 
