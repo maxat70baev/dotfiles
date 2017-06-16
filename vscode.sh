@@ -5,8 +5,8 @@ code --install-extension christian-kohler.path-intellisense
 code --install-extension donjayamanne.githistory
 code --install-extension EditorConfig.EditorConfig
 code --install-extension joshpeng.sublime-babel-vscode
-code --install-extension joshpeng.theme-charcoal-oceanicnext
 code --install-extension robertohuertasm.vscode-icons
+code --install-extension will-stone.plastic
 
 cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
 {
@@ -21,7 +21,7 @@ cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
 
     "window.openFilesInNewWindow": "default",
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Charcoal Oceaninc Next",
+    "workbench.colorTheme": "Plastic",
     "workbench.iconTheme": "vscode-icons"
 }
 EOF
