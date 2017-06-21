@@ -26,7 +26,7 @@ mas install 937984704 # Amphetamine
 
 # Install development apps
 brew cask install iterm2
-brew cask install postman
+# brew cask install postman
 brew cask install sourcetree
 brew cask install visual-studio-code
 
@@ -47,7 +47,6 @@ mas install 949724400 # MoneyWiz
 
 # Install news apps
 mas install 568494494 # Pocket
-mas install 880001334 # Reeder
 
 # Install communication apps
 brew cask install telegram
@@ -55,14 +54,13 @@ brew cask install whatsapp
 mas install 409789998 # Twitter
 
 # Install media apps
-brew cask install handbrake
+# brew cask install handbrake
 brew cask install imageoptim
-brew cask install plex-media-server
 brew cask install vlc
 brew cask install webtorrent
 mas install 407963104 # Pixelmator
 mas install 597611879 # Radium
-mas install 731738567 # Permute
+# mas install 731738567 # Permute
 
 # Install other apps
 brew cask install steam
