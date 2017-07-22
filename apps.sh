@@ -18,14 +18,12 @@ brew cask install qlcolorcode
 brew cask install qlmarkdown
 brew cask install qlstephen
 mas install 1000397973 # Wallcat
-mas install 1206020918 # Battery Indicator
 mas install 414209656 # Better Rename
 mas install 437151949 # Entropy
 mas install 937984704 # Amphetamine
 
 # Install development apps
 brew cask install iterm2
-# brew cask install postman
 brew cask install sourcetree
 brew cask install visual-studio-code
 
@@ -59,7 +57,6 @@ brew cask install vlc
 brew cask install webtorrent
 mas install 407963104 # Pixelmator
 mas install 597611879 # Radium
-# mas install 731738567 # Permute
 
 # Install other apps
 brew cask install steam
