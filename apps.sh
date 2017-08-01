@@ -31,7 +31,7 @@ brew cask install visual-studio-code
 brew cask install calibre
 brew cask install dropbox
 brew cask install google-chrome
-brew cask install google-drive
+brew cask install google-backup-and-sync
 brew cask install itsycal
 mas install 409183694 # Keynote
 mas install 409201541 # Pages
