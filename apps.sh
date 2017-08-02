@@ -30,6 +30,7 @@ brew cask install visual-studio-code
 # Install productivity apps
 brew cask install calibre
 brew cask install dropbox
+brew cask install enpass
 brew cask install google-chrome
 brew cask install google-backup-and-sync
 brew cask install itsycal
@@ -39,7 +40,6 @@ mas install 409203825 # Numbers
 mas install 410628904 # Wunderlist
 mas install 560459030 # Yandex.Disk
 mas install 692867256 # Simplenote
-mas install 732710998 # Enpass
 mas install 949724400 # MoneyWiz
 
 # Install news apps
