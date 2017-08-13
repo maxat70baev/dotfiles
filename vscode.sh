@@ -4,6 +4,7 @@ code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension donjayamanne.githistory
 code --install-extension EditorConfig.EditorConfig
+code --install-extension esbenp.prettier-vscode
 code --install-extension joshpeng.sublime-babel-vscode
 code --install-extension robertohuertasm.vscode-icons
 code --install-extension will-stone.plastic
