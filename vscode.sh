@@ -19,6 +19,7 @@ cat > "~/Library/Application Support/Code/User/settings.json" <<EOF
     "editor.scrollBeyondLastLine": false,
     "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
 
     "window.openFilesInNewWindow": "default",
     "window.zoomLevel": 0,
