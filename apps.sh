@@ -46,7 +46,7 @@ mas install 949724400 # MoneyWiz
 mas install 568494494 # Pocket
 
 # Install communication apps
-brew cask install telegram-desktop
+brew cask install telegram
 brew cask install whatsapp
 mas install 409789998 # Twitter
 
