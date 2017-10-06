@@ -51,12 +51,10 @@ brew cask install whatsapp
 mas install 409789998 # Twitter
 
 # Install media apps
-# brew cask install handbrake
 brew cask install imageoptim
 brew cask install vlc
 brew cask install webtorrent
 mas install 407963104 # Pixelmator
-mas install 597611879 # Radium
 
 # Install other apps
 brew cask install steam
