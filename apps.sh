@@ -34,13 +34,13 @@ brew cask install enpass
 brew cask install google-chrome
 brew cask install google-backup-and-sync
 brew cask install itsycal
+mas install 406056744 # Evernote
 mas install 409183694 # Keynote
 mas install 409201541 # Pages
 mas install 409203825 # Numbers
 mas install 410628904 # Wunderlist
 mas install 560459030 # Yandex.Disk
 mas install 692867256 # Simplenote
-mas install 784801555 # OneNote
 mas install 949724400 # MoneyWiz
 
 # Install news apps
