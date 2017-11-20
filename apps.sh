@@ -10,7 +10,6 @@ read "email?Enter your Apple ID email, followed by [ENTER]: "
 mas signin $email
 
 # Install utility apps
-brew cask install appcleaner
 brew cask install cheatsheet
 brew cask install hyperdock
 brew cask install onyx
@@ -20,6 +19,7 @@ brew cask install qlstephen
 mas install 1000397973 # Wallcat
 mas install 414209656 # Better Rename
 mas install 437151949 # Entropy
+mas install 443126292 # TrashMe
 mas install 937984704 # Amphetamine
 
 # Install development apps
