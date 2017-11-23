@@ -40,7 +40,6 @@ mas install 409201541 # Pages
 mas install 409203825 # Numbers
 mas install 410628904 # Wunderlist
 mas install 560459030 # Yandex.Disk
-mas install 692867256 # Simplenote
 mas install 949724400 # MoneyWiz
 
 # Install news apps
