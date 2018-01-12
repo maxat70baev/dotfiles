@@ -11,11 +11,11 @@ mas signin $email
 
 # Install utility apps
 brew cask install cheatsheet
-brew cask install hyperdock
 brew cask install onyx
 brew cask install qlcolorcode
 brew cask install qlmarkdown
 brew cask install qlstephen
+brew cask install spectacle
 mas install 1000397973 # Wallcat
 mas install 414209656 # Better Rename
 mas install 437151949 # Entropy
