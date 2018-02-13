@@ -16,6 +16,7 @@ brew cask install qlcolorcode
 brew cask install qlmarkdown
 brew cask install qlstephen
 brew cask install spectacle
+brew cask install teamviewer
 mas install 1000397973 # Wallcat
 mas install 414209656 # Better Rename
 mas install 437151949 # Entropy
@@ -31,11 +32,12 @@ brew cask install visual-studio-code
 brew cask install calibre
 brew cask install dropbox
 brew cask install enpass
+brew cask install evernote
 brew cask install google-backup-and-sync
 brew cask install google-chrome
 brew cask install itsycal
-brew cask install quip
-mas install 1278508951 #Trello
+mas install 1176895641 # Spark
+mas install 1278508951 # Trello
 mas install 409183694 # Keynote
 mas install 409201541 # Pages
 mas install 409203825 # Numbers
