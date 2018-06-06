@@ -10,7 +10,6 @@ read "email?Enter your Apple ID email, followed by [ENTER]: "
 mas signin $email
 
 # Install utility apps
-brew cask install appcleaner
 brew cask install cheatsheet
 brew cask install onyx
 brew cask install qlcolorcode
@@ -18,10 +17,11 @@ brew cask install qlmarkdown
 brew cask install qlstephen
 brew cask install spectacle
 brew cask install teamviewer
-mas install 1000397973 # Wallcat
-mas install 414209656 # Better Rename
-mas install 437151949 # Entropy
 mas install 937984704 # Amphetamine
+mas install 443126292 # Trashme
+mas install 437151949 # Entropy
+mas install 414209656 # Better Rename
+mas install 1000397973 # Wallcat
 
 # Install development apps
 brew cask install iterm2
@@ -36,13 +36,13 @@ brew cask install evernote
 brew cask install google-backup-and-sync
 brew cask install google-chrome
 brew cask install itsycal
-mas install 1176895641 # Spark
-mas install 409183694 # Keynote
-mas install 409201541 # Pages
-mas install 409203825 # Numbers
-mas install 410628904 # Wunderlist
-mas install 560459030 # Yandex.Disk
 mas install 949724400 # MoneyWiz
+mas install 560459030 # Yandex.Disk
+mas install 410628904 # Wunderlist
+mas install 409203825 # Numbers
+mas install 409201541 # Pages
+mas install 409183694 # Keynote
+mas install 1176895641 # Spark
 
 # Install news apps
 mas install 568494494 # Pocket
