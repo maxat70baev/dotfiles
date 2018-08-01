@@ -38,7 +38,6 @@ brew cask install google-chrome
 brew cask install itsycal
 mas install 949724400 # MoneyWiz
 mas install 560459030 # Yandex.Disk
-mas install 410628904 # Wunderlist
 mas install 409203825 # Numbers
 mas install 409201541 # Pages
 mas install 409183694 # Keynote
