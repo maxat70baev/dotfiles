@@ -16,7 +16,6 @@ brew cask install qlcolorcode
 brew cask install qlmarkdown
 brew cask install qlstephen
 brew cask install spectacle
-brew cask install teamviewer
 mas install 937984704 # Amphetamine
 mas install 443126292 # Trashme
 mas install 437151949 # Entropy
