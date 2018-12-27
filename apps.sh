@@ -42,9 +42,6 @@ mas install 409201541 # Pages
 mas install 409183694 # Keynote
 mas install 1176895641 # Spark
 
-# Install news apps
-mas install 568494494 # Pocket
-
 # Install communication apps
 brew cask install telegram
 brew cask install whatsapp
