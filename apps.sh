@@ -20,7 +20,6 @@ brew cask install spectacle
 mas install 937984704 # Amphetamine
 mas install 437151949 # Entropy
 mas install 414209656 # Better Rename
-mas install 1000397973 # Wallcat
 
 # Install development apps
 brew cask install iterm2
