@@ -34,7 +34,6 @@ brew cask install evernote
 brew cask install google-backup-and-sync
 brew cask install google-chrome
 brew cask install itsycal
-mas install 949724400 # MoneyWiz
 mas install 560459030 # Yandex.Disk
 mas install 409203825 # Numbers
 mas install 409201541 # Pages
