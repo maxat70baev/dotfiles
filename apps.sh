@@ -11,7 +11,6 @@ mas signin $email
 
 # Install utility apps
 brew cask install appcleaner
-brew cask install cheatsheet
 brew cask install onyx
 brew cask install qlcolorcode
 brew cask install qlmarkdown
