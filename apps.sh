@@ -11,13 +11,13 @@ mas signin $email
 
 # Install utility apps
 brew cask install appcleaner
+brew cask install keka
 brew cask install onyx
 brew cask install qlcolorcode
 brew cask install qlmarkdown
 brew cask install qlstephen
 brew cask install spectacle
 mas install 937984704 # Amphetamine
-mas install 437151949 # Entropy
 mas install 414209656 # Better Rename
 
 # Install development apps
@@ -34,9 +34,6 @@ brew cask install google-backup-and-sync
 brew cask install google-chrome
 brew cask install itsycal
 mas install 560459030 # Yandex.Disk
-mas install 409203825 # Numbers
-mas install 409201541 # Pages
-mas install 409183694 # Keynote
 mas install 1176895641 # Spark
 
 # Install communication apps
