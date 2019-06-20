@@ -28,14 +28,14 @@ brew cask install visual-studio-code
 # Install productivity apps
 brew cask install calibre
 brew cask install dropbox
-brew cask install enpass
-brew cask install evernote
 brew cask install google-backup-and-sync
 brew cask install google-chrome
 brew cask install itsycal
 mas install 1176895641 # Spark
 mas install 1274495053 # Microsoft To-do
+mas install 406056744 # Evernote
 mas install 560459030 # Yandex.Disk
+mas install 732710998 # Enpass
 
 # Install communication apps
 mas install 1147396723 # Whatsapp
