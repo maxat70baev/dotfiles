@@ -10,6 +10,7 @@ read "email?Enter your Apple ID email, followed by [ENTER]: "
 mas signin $email
 
 # Install utility apps
+brew cask install android-platform-tools
 brew cask install appcleaner
 brew cask install keka
 brew cask install onyx
