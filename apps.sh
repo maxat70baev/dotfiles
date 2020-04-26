@@ -47,6 +47,7 @@ mas install 747648890 # Telegram
 brew cask install handbrake
 brew cask install imageoptim
 brew cask install vlc
+brew cask install webtorrent
 mas install 407963104 # Pixelmator
 
 # Install other apps
