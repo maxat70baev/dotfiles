@@ -14,11 +14,11 @@ brew cask install android-platform-tools
 brew cask install appcleaner
 brew cask install keka
 brew cask install onyx
+brew cask install spectacle
 brew cask install qlcolorcode
 brew cask install qlmarkdown
 brew cask install qlstephen
 mas install 414209656 # Better Rename
-mas install 441258766 # Magnet
 mas install 937984704 # Amphetamine
 
 # Install development apps
