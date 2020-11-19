@@ -13,11 +13,7 @@ mas signin $email
 brew cask install android-platform-tools
 brew cask install appcleaner
 brew cask install keka
-brew cask install onyx
 brew cask install spectacle
-brew cask install qlcolorcode
-brew cask install qlmarkdown
-brew cask install qlstephen
 mas install 414209656 # Better Rename
 mas install 937984704 # Amphetamine
 
@@ -33,6 +29,7 @@ brew cask install google-backup-and-sync
 brew cask install google-chrome
 brew cask install itsycal
 mas install 1176895641 # Spark
+mas install 784801555 # Microsoft OneNote
 mas install 1274495053 # Microsoft To-do
 mas install 560459030 # Yandex.Disk
 mas install 732710998 # Enpass
@@ -43,14 +40,19 @@ mas install 1482454543 # Twitter
 mas install 747648890 # Telegram
 
 # Install media apps
-brew cask install handbrake
 brew cask install imageoptim
 brew cask install vlc
-mas install 407963104 # Pixelmator
 
 # Install other apps
 brew cask install steam
 brew cask install transmission
+
+# Archive
+# brew cask install qlcolorcode
+# brew cask install qlmarkdown
+# brew cask install qlstephen
+# brew cask install handbrake
+# mas install 407963104 # Pixelmator
 
 # Remove outdated versions from the cellar
 brew cask cleanup
